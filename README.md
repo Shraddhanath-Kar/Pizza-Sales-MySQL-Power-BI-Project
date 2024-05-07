@@ -1,1 +1,1 @@
-# Pizza-Sales-MySQL-Power-BI-Project
+# Pizza_Sales_MySQL_PowerBI_Project
